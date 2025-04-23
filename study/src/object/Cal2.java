@@ -19,7 +19,7 @@ public class Cal2 {
         //static 변수만 사용 가능
         System.out.println(x+y+PI);
 
-        System.out.println(price);
+        //System.out.println(price);
        /* * -> 이렇게 쓰면 오류!?
         * price는 static 변수이므로 new를 사용해야함 ?? */
 
